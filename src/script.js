@@ -104,7 +104,7 @@ const debugSun = new THREE.Mesh(
     new THREE.IcosahedronGeometry(0.1, 2),
     new THREE.MeshBasicMaterial()
 );
-scene.add(debugSun);
+// scene.add(debugSun);
 
 // Update
 const updateSun = () => {
